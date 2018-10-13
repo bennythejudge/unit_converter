@@ -1,5 +1,7 @@
 # unit_converter
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/unit_converter.svg)](https://www.guardrails.io)
+
 Udacity Flutter course
 
 ## Getting Started
